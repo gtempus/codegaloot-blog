@@ -2,13 +2,17 @@
 layout: post
 title: "Are You Greater Than the Sum of Your Tests?"
 date: 2012-10-11 21:19
+author: Gary Tempus
 comments: false
+published: false
 categories: [testing, design, agile] 
 ---
 
 A similar question I was also asking was, "Are your unit testing mumbo jumbo diciplines just a crutch?" It's a question that has been nagging me recently; especially after making my latest career move. Thankfully, the answer hit me like...well...
 
 {% img http://www.publicdomainpictures.net/download-picture.php?adresar=20000&soubor=stacked-bricks-2961292419383XVm.jpg 400 300 'A Ton of Bricks' 'a ton of bricks' %}
+
+<!-- more -->
 
 "It's not about the tests, dummy!" I blurted out to myself. The tests enforce a set of well respected and battle tested principles if you are listening to them and are aware of the pressures they are exerting on your code. I have written really worthless tests and I have also used tests to write some very elegant code. I have learned that you can cleave gobblins with extreme prejudice but you can just as easily commit harakiri.
 
