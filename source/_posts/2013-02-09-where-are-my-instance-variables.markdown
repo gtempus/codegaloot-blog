@@ -11,14 +11,14 @@ Head's up. There is no connection between a ruby class and its instance variable
 
 ``` ruby
 class AnyClass
-  def anyMethod
+  def any_method
     @var = 1
   end
 end
 
 obj1, obj2 = AnyClass.new, AnyClass.new
 
-obj1.anyMethod
+obj1.any_method
 obj1.instance_variables  # => [:@var]
 
 obj2.instance_variables  # => []
